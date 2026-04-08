@@ -20,7 +20,7 @@ e quais indicadores seriam importantes para o planejamento, caso haja um novo su
 
 - **Python**: Linguagem de programação principal utilizada no projeto.
 - **Pandas**: Para manipulação e análise de dados.
-- **Jupyter Notebook**: Ambiente utilizado para o desenvolvimento e execução do código no [Google Collab](https://colab.research.google.com/drive/1QK2Y3cQg6syV9E2VBH9JFB5To82L3hN1#scrollTo=QUeHOGmn1g2U).
+- **Jupyter Notebook**: Ambiente utilizado para o desenvolvimento e execução do código no [Google Collab](https://colab.research.google.com/drive/1QK2Y3cQg6syV9E2VBH9JFB5To82L3hN1#scrollTo=P8meF_EdjUZb).
 - **AWS**: Utilizado o AWS S3 para armazenamento das tabelas.
   
 ## Autores
